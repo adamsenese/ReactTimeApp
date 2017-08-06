@@ -1,1 +1,1 @@
-Boilerplate React App
+Timer and countdown application
